@@ -7,4 +7,4 @@
 7. This is main commit 4
 8. This is feature commit 4
 
-1. This is rebase to main
+1. This is rebases to main
