@@ -13,3 +13,8 @@
 
 
 3. This feature rebase squash commit 2
+===
+I am doing something here
+====
+I am doing another thing here
+===
