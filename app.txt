@@ -10,3 +10,6 @@
 1. this is rebases test
 2. rebase additional commit
 
+
+
+3. This feature rebase squash commit 2
