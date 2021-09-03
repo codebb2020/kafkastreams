@@ -1,2 +1,2 @@
 1. This is feature commit 1
-2. squashed
+2. squashedddd
